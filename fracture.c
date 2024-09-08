@@ -5,9 +5,6 @@
 //by fabian fonseca - cop3223c
 
 //helper functions (UDF's meant to seperate logic into new functions)
-
-
-
 double calculateDistance();
     {
         //no args
